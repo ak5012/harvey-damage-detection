@@ -7,7 +7,6 @@
 ✔ Directory expectations
 ✔ How to test using the provided grader
 
-Copy/paste directly into your project’s README.md.
 
 ---
 
